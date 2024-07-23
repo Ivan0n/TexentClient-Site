@@ -1,0 +1,34 @@
+#button-Download{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-left: 40px;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(101, 101, 255);
+    transition: 0.5s;
+}
+#button-Download:hover{
+    background-color: #F375F3;
+}
+
+
+
+#button3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-left: 40px;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(101, 101, 255);
+    transition: 0.5s;
+}
+
+#button3:hover{
+    background-color: #F375F3;
+}
